@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Nov  4 20:41:44 2015
+Invocation: foremost -t all smile.jpg 
+Output directory: /home/pwn/ctf/easyctf-2015/crypto/face/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: smile.jpg
+Start: Wed Nov  4 20:41:44 2015
+Length: 493 KB (505531 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     489 KB 	          0 	 
+1:	00000979.zip 	      67 KB 	     501354 	 
+Finish: Wed Nov  4 20:41:44 2015
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Nov  4 20:41:44 2015

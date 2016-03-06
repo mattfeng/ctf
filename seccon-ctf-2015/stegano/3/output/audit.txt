@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Dec  5 18:52:40 2015
+Invocation: foremost desktop_capture.png 
+Output directory: /home/pwn/ctf/seccon-ctf-2015/stegano/3/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: desktop_capture.png
+Start: Sat Dec  5 18:52:40 2015
+Length: 341 KB (349877 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Sat Dec  5 18:52:40 2015
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Sat Dec  5 18:52:40 2015

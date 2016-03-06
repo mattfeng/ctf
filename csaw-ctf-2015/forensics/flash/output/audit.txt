@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Sep 18 18:24:15 2015
+Invocation: foremost flash_c8429a430278283c0e571baebca3d139.img 
+Output directory: /home/pwn/ctf/csaw-ctf-2015/forensics/flash/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: flash_c8429a430278283c0e571baebca3d139.img
+Start: Fri Sep 18 18:24:15 2015
+Length: 128 MB (134217728 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri Sep 18 18:24:18 2015
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Fri Sep 18 18:24:18 2015

