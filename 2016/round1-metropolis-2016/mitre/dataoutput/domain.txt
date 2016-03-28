@@ -1,0 +1,38 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 1.5.1 ($Rev: 10844 $)
+# Feature-Recorder: domain
+# Filename: file.zip
+# Feature-File-Version: 1.1
+11962-ZIP-466	www.w3.org	s:xlink="http://www.w3.org/1999/xlink" xml
+11962-ZIP-506	purl.org	mlns:dc="http://purl.org/dc/elements/1.1
+11962-ZIP-870	www.w3.org	ns:math="http://www.w3.org/1998/Math/MathM
+11962-ZIP-1041	openoffice.org	lns:ooo="http://openoffice.org/2004/office" xm
+11962-ZIP-1088	openoffice.org	ns:ooow="http://openoffice.org/2004/writer" xm
+11962-ZIP-1135	openoffice.org	ns:oooc="http://openoffice.org/2004/calc" xmln
+11962-ZIP-1179	www.w3.org	lns:dom="http://www.w3.org/2001/xml-events
+11962-ZIP-1228	www.w3.org	:xforms="http://www.w3.org/2002/xforms" xm
+11962-ZIP-1270	www.w3.org	lns:xsd="http://www.w3.org/2001/XMLSchema"
+11962-ZIP-1315	www.w3.org	lns:xsi="http://www.w3.org/2001/XMLSchema-
+11962-ZIP-1369	openoffice.org	lns:rpt="http://openoffice.org/2005/report" xm
+11962-ZIP-1473	www.w3.org	s:xhtml="http://www.w3.org/1999/xhtml" xml
+11962-ZIP-1516	www.w3.org	s:grddl="http://www.w3.org/2003/g/data-vie
+11962-ZIP-1570	openoffice.org	ficeooo="http://openoffice.org/2009/office" xm
+11962-ZIP-1621	openoffice.org	ableooo="http://openoffice.org/2009/table" xml
+11962-ZIP-1670	openoffice.org	drawooo="http://openoffice.org/2010/draw" xmln
+11962-ZIP-2044	www.w3.org	s:css3t="http://www.w3.org/TR/css3-text/" 
+13533-ZIP-465	www.w3.org	s:xlink="http://www.w3.org/1999/xlink" xml
+13533-ZIP-505	purl.org	mlns:dc="http://purl.org/dc/elements/1.1
+13533-ZIP-869	www.w3.org	ns:math="http://www.w3.org/1998/Math/MathM
+13533-ZIP-1040	openoffice.org	lns:ooo="http://openoffice.org/2004/office" xm
+13533-ZIP-1087	openoffice.org	ns:ooow="http://openoffice.org/2004/writer" xm
+13533-ZIP-1134	openoffice.org	ns:oooc="http://openoffice.org/2004/calc" xmln
+13533-ZIP-1178	www.w3.org	lns:dom="http://www.w3.org/2001/xml-events
+13533-ZIP-1224	openoffice.org	lns:rpt="http://openoffice.org/2005/report" xm
+13533-ZIP-1328	www.w3.org	s:xhtml="http://www.w3.org/1999/xhtml" xml
+13533-ZIP-1371	www.w3.org	s:grddl="http://www.w3.org/2003/g/data-vie
+13533-ZIP-1425	openoffice.org	ficeooo="http://openoffice.org/2009/office" xm
+13533-ZIP-1476	openoffice.org	ableooo="http://openoffice.org/2009/table" xml
+13533-ZIP-1525	openoffice.org	drawooo="http://openoffice.org/2010/draw" xmln
+13533-ZIP-1818	www.w3.org	s:css3t="http://www.w3.org/TR/css3-text/" 
+15283-ZIP-149	www.w3.org	s:xlink="http://www.w3.org/1999/xlink" xml
+15283-ZIP-254	openoffice.org	lns:ooo="http://openoffice.org/2004/office" of

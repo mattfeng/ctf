@@ -1,0 +1,38 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 1.5.1 ($Rev: 10844 $)
+# Feature-Recorder: url
+# Filename: file.zip
+# Feature-File-Version: 1.1
+11962-ZIP-459	http://www.w3.org/1999/xlink	0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http
+11962-ZIP-499	http://purl.org/dc/elements/1.1/	link" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="ur
+11962-ZIP-863	http://www.w3.org/1998/Math/MathML	.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="ur
+11962-ZIP-1034	http://openoffice.org/2004/office	1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="ht
+11962-ZIP-1081	http://openoffice.org/2004/writer	ce" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="ht
+11962-ZIP-1128	http://openoffice.org/2004/calc	er" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="htt
+11962-ZIP-1172	http://www.w3.org/2001/xml-events	alc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="
+11962-ZIP-1221	http://www.w3.org/2002/xforms	" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="htt
+11962-ZIP-1263	http://www.w3.org/2001/XMLSchema	rms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="htt
+11962-ZIP-1308	http://www.w3.org/2001/XMLSchema-instance	ema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="htt
+11962-ZIP-1362	http://openoffice.org/2005/report	nce" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:
+11962-ZIP-1466	http://www.w3.org/1999/xhtml	2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="h
+11962-ZIP-1509	http://www.w3.org/2003/g/data-view#	l" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeoo
+11962-ZIP-1563	http://openoffice.org/2009/office	mlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo
+11962-ZIP-1614	http://openoffice.org/2009/table	xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo=
+11962-ZIP-1663	http://openoffice.org/2010/draw	 xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext=
+11962-ZIP-2037	http://www.w3.org/TR/css3-text/	0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version
+13533-ZIP-458	http://www.w3.org/1999/xlink	0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http
+13533-ZIP-498	http://purl.org/dc/elements/1.1/	link" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="ur
+13533-ZIP-862	http://www.w3.org/1998/Math/MathML	.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="ur
+13533-ZIP-1033	http://openoffice.org/2004/office	1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="ht
+13533-ZIP-1080	http://openoffice.org/2004/writer	ce" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="ht
+13533-ZIP-1127	http://openoffice.org/2004/calc	er" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="htt
+13533-ZIP-1171	http://www.w3.org/2001/xml-events	alc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:rpt="htt
+13533-ZIP-1217	http://openoffice.org/2005/report	nts" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:
+13533-ZIP-1321	http://www.w3.org/1999/xhtml	2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="h
+13533-ZIP-1364	http://www.w3.org/2003/g/data-view#	l" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeoo
+13533-ZIP-1418	http://openoffice.org/2009/office	mlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo
+13533-ZIP-1469	http://openoffice.org/2009/table	xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo=
+13533-ZIP-1518	http://openoffice.org/2010/draw	 xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext=
+13533-ZIP-1811	http://www.w3.org/TR/css3-text/	0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version
+15283-ZIP-142	http://www.w3.org/1999/xlink	0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="
+15283-ZIP-247	http://openoffice.org/2004/office	1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version

@@ -1,0 +1,28 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Mar 26 14:10:03 2016
+Invocation: foremost -t all bin 
+Output directory: /home/pwn/ctf/2016/metropolis-2016/bin/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: bin
+Start: Sat Mar 26 14:10:03 2016
+Length: 4 MB (4350163 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      29 KB 	          0 	  (256 x 256)
+1:	00000059.png 	     213 KB 	      30241 	  (800 x 600)
+2:	00000485.png 	      82 KB 	     248385 	  (297 x 243)
+3:	00000650.png 	      40 KB 	     333136 	  (400 x 479)
+4:	00000731.png 	       2 MB 	     374562 	  (1271 x 1708)
+5:	00005380.png 	       1 MB 	    2754764 	  (1440 x 1200)
+Finish: Sat Mar 26 14:10:03 2016
+
+6 FILES EXTRACTED
+	
+png:= 6
+------------------------------------------------------------------
+
+Foremost finished at Sat Mar 26 14:10:03 2016

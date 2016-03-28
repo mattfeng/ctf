@@ -1,0 +1,8 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 1.5.1 ($Rev: 10844 $)
+# Feature-Recorder: url
+# Filename: file.zip
+# Histogram-File-Version: 1.1
+n=16	www.w3.org
+n=15	openoffice.org
+n=2	purl.org

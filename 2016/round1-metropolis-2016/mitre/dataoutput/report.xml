@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dfxml xmloutputversion='1.0'>
+  <metadata 
+  xmlns='http://afflib.org/bulk_extractor/' 
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' 
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+    <dc:type>Feature Extraction</dc:type>
+  </metadata>
+  <creator version='1.0'>
+    <program>BULK_EXTRACTOR</program>
+    <version>1.5.1</version>
+    <build_environment>
+      <compiler>4.9.1 (4.9.1)</compiler>
+      <CPPFLAGS>-D_FORTIFY_SOURCE=2 -I/usr/local/include -DUTC_OFFSET=+0000</CPPFLAGS>
+      <CFLAGS>-g     -pthread -g -O3 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security -MD -Wpointer-arith -Wmissing-declarations -Wmissing-prototypes -Wshadow -Wwrite-strings -Wcast-align -Waggregate-return -Wbad-function-cast -Wcast-qual -Wundef -Wredundant-decls -Wdisabled-optimization -Wfloat-equal -Wmultichar -Wc++-compat -Wmissing-noreturn -Wall -Wstrict-prototypes -fPIC   -D_FORTIFY_SOURCE=2 </CFLAGS>
+      <CXXFLAGS>-g -pthread -g -O3 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security -std=c++11 -Wall -MD -D_FORTIFY_SOURCE=2 -Wpointer-arith -Wshadow -Wwrite-strings -Wcast-align -Wredundant-decls -Wdisabled-optimization -Wfloat-equal -Wmultichar -Wmissing-noreturn -Woverloaded-virtual -Wsign-promo -funit-at-a-time -Weffc++  -fPIC -D_FORTIFY_SOURCE=2 </CXXFLAGS>
+      <LDFLAGS>-Wl,-z,relro -L/usr/local/lib</LDFLAGS>
+      <LIBS>-lewf -lafflib -lstdc++ -lexpat -lz -ldl  -lssl -lcrypto </LIBS>
+      <compilation_date>2014-08-06T08:21:23</compilation_date>
+      <library name="afflib" version="3.7.5"/>
+      <library name="libewf" version="20140608"/>
+    </build_environment>
+    <execution_environment>
+      <os_sysname>Linux</os_sysname>
+      <os_release>4.0.0-kali1-amd64</os_release>
+      <os_version>#1 SMP Debian 4.0.4-1+kali2 (2015-06-03)</os_version>
+      <host>kali</host>
+      <arch>x86_64</arch>
+      <command_line>bulk_extractor -o dataoutput file.zip</command_line>
+      <uid>1000</uid>
+      <username>pwn</username>
+      <start_time>2016-03-26T16:31:11Z</start_time>
+    </execution_environment>
+  </creator>
+  <configuration>
+    <threads>8</threads>
+    <pagesize>16777216</pagesize>
+    <marginsize>4194304</marginsize>
+    <scanners>
+      <scanner>accts</scanner>
+      <scanner>base64</scanner>
+      <scanner>kml</scanner>
+      <scanner>email</scanner>
+      <scanner>httplogs</scanner>
+      <scanner>gps</scanner>
+      <scanner>net</scanner>
+      <scanner>find</scanner>
+      <scanner>aes</scanner>
+      <scanner>json</scanner>
+      <scanner>elf</scanner>
+      <scanner>exif</scanner>
+      <scanner>zip</scanner>
+      <scanner>rar</scanner>
+      <scanner>gzip</scanner>
+      <scanner>pdf</scanner>
+      <scanner>winpe</scanner>
+      <scanner>hiberfile</scanner>
+      <scanner>winlnk</scanner>
+      <scanner>winprefetch</scanner>
+      <scanner>windirs</scanner>
+      <scanner>vcard</scanner>
+      <scanner>sqlite</scanner>
+    </scanners>
+  </configuration>
+  <provided_filename>file.zip</provided_filename>
+  <timestamp name='phase1 start' delta='0.005826' total='0.005826'/>
+  <runtime xmlns:debug="http://www.afflib.org/bulk_extractor/debug">
+    <debug:work_start threadid='2' pos0='0' pagesize='16384' bufsize='16384'/>
+    <debug:work_end threadid='2' pos0='0' time='0.021902'/>
+<!-- Time elapsed waiting for 1 thread to finish:
+    1 sec (timeout in 59 min59 sec.)
+ -->
+  </runtime>
+  <source>
+    <image_filename>file.zip</image_filename>
+    <image_size>16384</image_size>
+    <hashdigest type='MD5'>e3cb41ae24ee340180d3f84117e0a4f8</hashdigest>
+  </source>
+  <feature_files>
+    <feature_file><name>aes_keys</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>alerts</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ccn</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ccn_track2</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>domain</name>
+<count>33</count>
+</feature_file>
+
+    <feature_file><name>elf</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>email</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ether</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>exif</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>find</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>gps</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>httplogs</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ip</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>jpeg_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>json</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>kml</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>pii</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>rar</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>rfc822</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>sqlite_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>telephone</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>unrar_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>unzip_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>url</name>
+<count>33</count>
+</feature_file>
+
+    <feature_file><name>vcard</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>windirs</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>winlnk</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>winpe</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>winprefetch</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>zip</name>
+<count>5</count>
+</feature_file>
+
+    <thread_wait thread='0'>0</thread_wait>
+    <thread_wait thread='0'>0.100709</thread_wait>
+    <thread_wait thread='1'>0.101909</thread_wait>
+    <thread_wait thread='2'>0.001382</thread_wait>
+    <thread_wait thread='3'>0.101759</thread_wait>
+    <thread_wait thread='4'>0.101708</thread_wait>
+    <thread_wait thread='5'>0.10088</thread_wait>
+    <thread_wait thread='6'>0.101095</thread_wait>
+    <thread_wait thread='7'>0.10068</thread_wait>
+  </feature_files>
+  <timestamp name='phase1 end' delta='0.102677' total='0.108506'/>
+  <timestamp name='phase2 (shutdown) start' delta='0.000021' total='0.108528'/>
+  <timestamp name='phase2 (shutdown) end' delta='0.000020' total='0.108549'/>
+  <timestamp name='phase3 (histograms) start' delta='0.000009' total='0.108558'/>
+  <timestamp name='phase3 (histograms) end' delta='0.001714' total='0.110272'/>
+  <report>
+    <total_bytes>16384</total_bytes>
+    <elapsed_seconds>0.111048</elapsed_seconds>
+    <max_depth_seen>1</max_depth_seen>
+    <dup_data_encountered>0</dup_data_encountered>
+  </report>
+  <scanner_times>
+    <path><name>ACCTS</name>
+<calls>1</calls>
+<seconds>0.000658</seconds>
+</path>
+
+    <path><name>AES</name>
+<calls>1</calls>
+<seconds>0.000504</seconds>
+</path>
+
+    <path><name>BASE64</name>
+<calls>1</calls>
+<seconds>0.000023</seconds>
+</path>
+
+    <path><name>ELF</name>
+<calls>1</calls>
+<seconds>0.000024</seconds>
+</path>
+
+    <path><name>EMAIL</name>
+<calls>1</calls>
+<seconds>0.009886</seconds>
+</path>
+
+    <path><name>EXIF</name>
+<calls>1</calls>
+<seconds>0.000059</seconds>
+</path>
+
+    <path><name>FIND</name>
+<calls>1</calls>
+<seconds>0.000044</seconds>
+</path>
+
+    <path><name>GPS</name>
+<calls>1</calls>
+<seconds>0.000004</seconds>
+</path>
+
+    <path><name>GZIP</name>
+<calls>1</calls>
+<seconds>0.000023</seconds>
+</path>
+
+    <path><name>HIBERFILE</name>
+<calls>1</calls>
+<seconds>0.000020</seconds>
+</path>
+
+    <path><name>HTTPLOGS</name>
+<calls>1</calls>
+<seconds>0.000097</seconds>
+</path>
+
+    <path><name>JSON</name>
+<calls>1</calls>
+<seconds>0.000025</seconds>
+</path>
+
+    <path><name>KML</name>
+<calls>1</calls>
+<seconds>0.000016</seconds>
+</path>
+
+    <path><name>NET</name>
+<calls>1</calls>
+<seconds>0.000691</seconds>
+</path>
+
+    <path><name>PDF</name>
+<calls>1</calls>
+<seconds>0.000004</seconds>
+</path>
+
+    <path><name>RAR</name>
+<calls>1</calls>
+<seconds>0.000057</seconds>
+</path>
+
+    <path><name>SQLITE</name>
+<calls>1</calls>
+<seconds>0.000004</seconds>
+</path>
+
+    <path><name>VCARD</name>
+<calls>1</calls>
+<seconds>0.000004</seconds>
+</path>
+
+    <path><name>WINDIRS</name>
+<calls>1</calls>
+<seconds>0.000007</seconds>
+</path>
+
+    <path><name>WINLNK</name>
+<calls>1</calls>
+<seconds>0.000054</seconds>
+</path>
+
+    <path><name>WINPE</name>
+<calls>1</calls>
+<seconds>0.000046</seconds>
+</path>
+
+    <path><name>WINPREFETCH</name>
+<calls>1</calls>
+<seconds>0.000058</seconds>
+</path>
+
+    <path><name>ZIP</name>
+<calls>1</calls>
+<seconds>0.009452</seconds>
+</path>
+
+    <path><name>ZIP-ACCTS</name>
+<calls>3</calls>
+<seconds>0.000729</seconds>
+</path>
+
+    <path><name>ZIP-AES</name>
+<calls>3</calls>
+<seconds>0.000816</seconds>
+</path>
+
+    <path><name>ZIP-BASE64</name>
+<calls>3</calls>
+<seconds>0.000024</seconds>
+</path>
+
+    <path><name>ZIP-ELF</name>
+<calls>3</calls>
+<seconds>0.000038</seconds>
+</path>
+
+    <path><name>ZIP-EMAIL</name>
+<calls>3</calls>
+<seconds>0.003192</seconds>
+</path>
+
+    <path><name>ZIP-EXIF</name>
+<calls>3</calls>
+<seconds>0.000075</seconds>
+</path>
+
+    <path><name>ZIP-FIND</name>
+<calls>3</calls>
+<seconds>0.000039</seconds>
+</path>
+
+    <path><name>ZIP-GPS</name>
+<calls>3</calls>
+<seconds>0.000093</seconds>
+</path>
+
+    <path><name>ZIP-GZIP</name>
+<calls>3</calls>
+<seconds>0.000031</seconds>
+</path>
+
+    <path><name>ZIP-HIBERFILE</name>
+<calls>3</calls>
+<seconds>0.000033</seconds>
+</path>
+
+    <path><name>ZIP-HTTPLOGS</name>
+<calls>3</calls>
+<seconds>0.000104</seconds>
+</path>
+
+    <path><name>ZIP-JSON</name>
+<calls>3</calls>
+<seconds>0.000040</seconds>
+</path>
+
+    <path><name>ZIP-KML</name>
+<calls>3</calls>
+<seconds>0.000013</seconds>
+</path>
+
+    <path><name>ZIP-NET</name>
+<calls>3</calls>
+<seconds>0.002814</seconds>
+</path>
+
+    <path><name>ZIP-PDF</name>
+<calls>3</calls>
+<seconds>0.000028</seconds>
+</path>
+
+    <path><name>ZIP-RAR</name>
+<calls>3</calls>
+<seconds>0.000111</seconds>
+</path>
+
+    <path><name>ZIP-SQLITE</name>
+<calls>3</calls>
+<seconds>0.000008</seconds>
+</path>
+
+    <path><name>ZIP-VCARD</name>
+<calls>3</calls>
+<seconds>0.000006</seconds>
+</path>
+
+    <path><name>ZIP-WINLNK</name>
+<calls>3</calls>
+<seconds>0.000083</seconds>
+</path>
+
+    <path><name>ZIP-WINPE</name>
+<calls>3</calls>
+<seconds>0.000076</seconds>
+</path>
+
+    <path><name>ZIP-WINPREFETCH</name>
+<calls>3</calls>
+<seconds>0.000035</seconds>
+</path>
+
+    <path><name>ZIP-ZIP</name>
+<calls>3</calls>
+<seconds>0.000045</seconds>
+</path>
+
+  </scanner_times>
+  <rusage>
+    <utime>0.016000</utime>
+    <stime>0.012000</stime>
+    <maxrss>10444</maxrss>
+    <minflt>718</minflt>
+    <majflt>7</majflt>
+    <nswap>0</nswap>
+    <inblock>3776</inblock>
+    <oublock>72</oublock>
+    <clocktime>0.110884</clocktime>
+  </rusage>
+</dfxml>

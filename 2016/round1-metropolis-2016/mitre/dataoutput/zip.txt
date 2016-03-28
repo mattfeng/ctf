@@ -1,0 +1,10 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 1.5.1 ($Rev: 10844 $)
+# Feature-Recorder: zip
+# Filename: file.zip
+# Feature-File-Version: 1.1
+0	mimetype	<zipinfo><name>mimetype</name><version>20</version><general>2048</general><compression_method>0</compression_method><uncompr_size>39</uncompr_size><compr_size>39</compr_size><mtime>2016-03-14T15:08:27</mtime><crc32>204654174</crc32><extra_field_len>0</extra_field_len><disposition bytes='0'>decompressed</disposition></zipinfo>
+77	Thumbnails/thumbnail.png	<zipinfo><name>Thumbnails/thumbnail.png</name><version>20</version><general>2048</general><compression_method>0</compression_method><uncompr_size>11831</uncompr_size><compr_size>11831</compr_size><mtime>2016-03-14T15:08:27</mtime><crc32>768914068</crc32><extra_field_len>0</extra_field_len><disposition bytes='0'>decompressed</disposition></zipinfo>
+11962	content.xml	<zipinfo><name>content.xml</name><version>20</version><general>2056</general><compression_method>8</compression_method><uncompr_size>0</uncompr_size><compr_size>0</compr_size><mtime>2016-03-14T15:08:27</mtime><crc32>0</crc32><extra_field_len>0</extra_field_len><disposition bytes='7732'>decompressed</disposition></zipinfo>
+13533	styles.xml	<zipinfo><name>styles.xml</name><version>20</version><general>2056</general><compression_method>8</compression_method><uncompr_size>0</uncompr_size><compr_size>0</compr_size><mtime>2016-03-14T15:08:27</mtime><crc32>0</crc32><extra_field_len>0</extra_field_len><disposition bytes='9056'>decompressed</disposition></zipinfo>
+15283	settings.xml	<zipinfo><name>settings.xml</name><version>20</version><general>2056</general><compression_method>8</compression_method><uncompr_size>0</uncompr_size><compr_size>0</compr_size><mtime>2016-03-14T15:08:27</mtime><crc32>0</crc32><extra_field_len>0</extra_field_len><disposition bytes='6379'>decompressed</disposition></zipinfo>

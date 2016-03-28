@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Mar 26 12:30:26 2016
+Invocation: foremost -t all file.zip 
+Output directory: /home/pwn/ctf/2016/metropolis-2016/mitre/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: file.zip
+Start: Sat Mar 26 12:30:26 2016
+Length: 16 KB (16384 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      11 KB 	        131 	  (198 x 256)
+Finish: Sat Mar 26 12:30:26 2016
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Mar 26 12:30:26 2016
